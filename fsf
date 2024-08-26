@@ -1,0 +1,17 @@
+def descrever carro(sen). {
+toyota Corolla, ano: 2020
+}
+
+livroo1 = livro(..)
+
+@property
+def titulo (self):
+    return self.__titulo
+
+def set_titulo(self, texto):
+    self.__titulo=texto
+
+saida:
+livro1.titulo
+
+get:
